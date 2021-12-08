@@ -2,5 +2,5 @@
 
 
 <p align='center'>
-  <img width="300" src="telainicial.png">
+  <img width="600" src="telainicial.png">
 </p>
